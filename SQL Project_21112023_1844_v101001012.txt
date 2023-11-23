@@ -1,0 +1,22 @@
+SQL Project 
+// Hi i am doing some writing, presenting // to board members.
+// Some useful details added here.
+
+Version Control
+ --version--features--sub-features
+ --bug-fixes
+
+1.1.1.2353
+Major.minor.path.releasenumber
+
+Git-versionControl
+--Git (Linus Trovalds+Dennis Ritchie (C language) He is creator of (Linux Kernel--inspired by Unix Operating System ( GNU Richard Stalman) (Dennis Ritchie + Brian Kerninghan)( 9 billions devices) palm to supercomputers
+--keep your changes while working on the same file
+--
+
+
+Agile --> Scrum --> Git
+
+//added in git
+
+Now my changes are getting tracked
